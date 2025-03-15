@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./videos/Project2-Mobile-walkthrough.gif' title='Mobile Video app Walkthrough' width='400' alt='Video Walkthrough' />
+<img src='./videos/React Flashcards-Mobile.gif' title='Mobile Video app Walkthrough' width='400' alt='Video Walkthrough' />
 
 <img src='./videos/React Flashcards-Desktop.gif' title='Desktop Video app Walkthrough' width='400' alt='Video Walkthrough' />
 
