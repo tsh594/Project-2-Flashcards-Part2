@@ -38,7 +38,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='./videos/React+Flashcards-Mobile.gif' title='Mobile Video app Walkthrough' width='400' alt='Video Walkthrough' />
 
-<img src='./videos/React Flashcards-Desktop.gif' title='Desktop Video app Walkthrough' width='400' alt='Video Walkthrough' />
+<img src='./videos/React+Flashcards-Desktop.gif' title='Desktop Video app Walkthrough' width='400' alt='Video Walkthrough' />
 
 
 GIF created with:
